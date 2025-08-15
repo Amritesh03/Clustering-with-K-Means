@@ -50,6 +50,3 @@ The goal of this project is to perform **unsupervised learning** using the **K-M
 ## 📈 Results
 - **Optimal Clusters:** *Determined using Elbow Method.*
 - **Silhouette Score:** Indicates good separation between clusters.
-- Visualizations show distinct customer segments.
-   git clone https://github.com/your-username/kmeans-customer-segmentation.git
-   cd kmeans-customer-segmentation
